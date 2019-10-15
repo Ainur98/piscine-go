@@ -1,1 +1,1 @@
-curl -s "https://api.github.com/users/ainur98" | jq '.login'
+curl -s "https://api.github.com/users/ainur98" | jq '.id'
